@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Neo Sala\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Neo Sala\\.nuget\\packages"
+    ]
+  }
+}

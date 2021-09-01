@@ -1,0 +1,15 @@
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\bin\Debug\netcoreapp3.1\Calculadora P.Lopes.exe
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\bin\Debug\netcoreapp3.1\Calculadora P.Lopes.deps.json
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\bin\Debug\netcoreapp3.1\Calculadora P.Lopes.runtimeconfig.json
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\bin\Debug\netcoreapp3.1\Calculadora P.Lopes.runtimeconfig.dev.json
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\bin\Debug\netcoreapp3.1\Calculadora P.Lopes.dll
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\bin\Debug\netcoreapp3.1\Calculadora P.Lopes.pdb
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora P.Lopes.csproj.AssemblyReference.cache
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora P.Lopes.csproj.GenerateResource.cache
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora P.Lopes.AssemblyInfoInputs.cache
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora P.Lopes.AssemblyInfo.cs
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora P.Lopes.csproj.CoreCompileInputs.cache
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora P.Lopes.dll
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora P.Lopes.pdb
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora P.Lopes.genruntimeconfig.cache
+C:\Users\Neo Sala\Desktop\ADS\Programming and Data Persistence\Agora vai\Calculadora P.Lopes\obj\Debug\netcoreapp3.1\Calculadora_P.Lopes.Calculadora.resources
